@@ -1,11 +1,16 @@
 _repo: Story-Of-The-Life-Of-St-Paul-The-Apostle_63093
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Seymour, Mary F.
     gutenberg_agent_id: '52280'
     url: http://www.gutenberg.org/2009/agents/52280
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63093#Story-Of-The-Life-Of-St-Paul-The-Apostle
 gutenberg_issued: '2020-08-31'
 gutenberg_type: Text
 identifiers:
